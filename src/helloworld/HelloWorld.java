@@ -7,5 +7,6 @@ public class HelloWorld {
 //Print the words Hello World on the screen
         
         System.out.println("Hello World");
+        System.out.println("Good night Joby!");
     }
 }
